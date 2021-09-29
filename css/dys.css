@@ -13,6 +13,7 @@ abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
 table{border-collapse:collapse;border-spacing:0}
 hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
 input,select{vertical-align:middle}
+p {word-spacing: 70px;}
 
 body,html {
 	background-color: #FFF373;
@@ -67,7 +68,7 @@ article h2 {
     font-weight: normal;
     margin-bottom: 12px;
 }
-article p {
+article p { word-spacing: 70px;
 	
 }
 main section {
@@ -82,6 +83,7 @@ footer {
 }
 footer p {
 	padding: 20px;
+	word-spacing: 70px;
 }
 address {
     padding: 10px 20px 30px 10px;
